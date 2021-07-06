@@ -13,10 +13,10 @@ namespace Neo.SmartContract
     [SupportedStandards("NEP-11")]
     [ContractPermission("*", "onNEP11Payment")]
 
-    [DisplayName("first try")]
+    [DisplayName("Neo Knights")]
     [ManifestExtra("Author", "kokahunter")]
-    [ManifestExtra("Email", "your@address.invalid")]
-    [ManifestExtra("Description", "Describe your contract...")]   
+    [ManifestExtra("Email", "webmaster@neodepot.org")]
+    [ManifestExtra("Description", "Neo Knights Contract")]   
     public class NeoKnights : Framework.SmartContract
     {
         [InitialValue("NQgpFDgZ9BRYWNc43JkHPpghpNUiLWFVTv", ContractParameterType.Hash160)]
