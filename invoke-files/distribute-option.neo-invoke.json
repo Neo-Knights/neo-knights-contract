@@ -1,0 +1,9 @@
+[
+  {
+    "contract": "NeoKnights",
+    "operation": "distributeGasOption",
+    "args": [
+      "maxi_1981"
+    ]
+  }
+]

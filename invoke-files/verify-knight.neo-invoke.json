@@ -1,0 +1,10 @@
+[
+  {
+    "contract": "NeoKnights",
+    "operation": "verifyKnight",
+    "args": [
+      "maxi_1981",
+      "0x02134c680afee9a1fd8da2ead21b7e8dfeb9611fe357fa132eb4f238e7e016903f"
+    ]
+  }
+]

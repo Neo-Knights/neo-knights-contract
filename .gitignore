@@ -1,0 +1,9 @@
+wallets/
+checkpoints/
+NeoKnights/bin/
+NeoKnights/obj/
+default.neo-express
+express1.batch
+express2.batch
+helper-commands.txt
+knight1.wallet.json

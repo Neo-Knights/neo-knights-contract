@@ -1,0 +1,10 @@
+[
+  {
+    "contract": "NeoKnights",
+    "operation": "withdraw",
+    "args": [
+      "maxi_1981",
+      "@NQgpFDgZ9BRYWNc43JkHPpghpNUiLWFVTv"
+    ]
+  }
+]
